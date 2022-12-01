@@ -28,7 +28,7 @@ Install dependencies
   python3 -m pip install --upgrade pip
   python3 -m pip install --upgrade Pillow
 ```
-Then add some images in ./Data folder 
+Then add some images in ./Data folder and delete the Leave it.txt file 
 
 Start the exif extractor tool
 
