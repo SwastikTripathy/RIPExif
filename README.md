@@ -42,6 +42,8 @@ Start the exif remover tool
   python3 exifremover.py 
 ```
 
+## Practical Video
+https://youtu.be/ZSt4TM_y3Qg
 
 ## Disclaimer
 
